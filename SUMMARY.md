@@ -10,7 +10,7 @@
 
 ## 🌐 Company
 
-* [Listing Process ](company/listing-process.md)
+* [Listing Process](company/listing-process.md)
 * [Partnership](company/partnership.md)
 
 ## 📈 trading
@@ -99,6 +99,7 @@
 * [Gift Cards](service/gift-cards/README.md)
   * [Available Retailers](service/gift-cards/available-retailers.md)
 * [Alchemy Pay](service/alchemy-pay.md)
+* [Launchpad](service/launchpad.md)
 
 ## ❔ help center
 
@@ -116,7 +117,7 @@
   * [How do I complete my identity verification?](help-center/personal-account-verification-kyc/how-do-i-complete-my-identity-verification.md)
   * [Can I trade without KYC?](help-center/personal-account-verification-kyc/can-i-trade-without-kyc.md)
   * [How long does it take for my KYC verification to be approved?](help-center/personal-account-verification-kyc/how-long-does-it-take-for-my-kyc-verification-to-be-approved.md)
-  * [Is it possible to complete KYC Tier 2  without a passport?](help-center/personal-account-verification-kyc/is-it-possible-to-complete-kyc-tier-2-without-a-passport.md)
+  * [Is it possible to complete KYC Tier 2 without a passport?](help-center/personal-account-verification-kyc/is-it-possible-to-complete-kyc-tier-2-without-a-passport.md)
   * [Why did my documents get rejected for KYC?](help-center/personal-account-verification-kyc/why-did-my-documents-get-rejected-for-kyc.md)
 * [Company Account Verification (KYB)](help-center/company-account-verification-kyb/README.md)
   * [How to do KYB verification?](help-center/company-account-verification-kyb/how-to-do-kyb-verification.md)
