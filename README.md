@@ -36,7 +36,7 @@ LYO Credit (LYO) is the token created to work in the LYOPAY ecosystem of busines
 
 Staking is a method of locking your crypto in a staking wallet to work in the validation of new transactions on a proof-of-stake blockchain.
 
-### [crypto-loan](service/crypto-loan/ "mention")
+### [Broken link](broken-reference "mention")
 
 Users will be able to receive USDT, USDC, and BUSD. There are 60 options for collateral. In addition, getting a crypto loan does not need KYC verification and a credit check.
 
