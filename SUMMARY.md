@@ -98,7 +98,7 @@
 * [Alchemy Pay](service/alchemy-pay.md)
 * [Launchpad](service/launchpad.md)
 
-## ❔ help center
+## ❓ help center
 
 * [Customer Support](help-center/customer-support.md)
 * [Sign Up and Login](help-center/sign-up-and-login/README.md)
@@ -149,7 +149,7 @@
   * [How do I disable my account?](help-center/account-management-and-security/how-do-i-disable-my-account.md)
   * [How do I delete my account?](help-center/account-management-and-security/how-do-i-delete-my-account.md)
 
-## ⏬ DOWNLOADABLES
+## 🎨 DOWNLOADABLES
 
 * [Logo](downloadables/logo.md)
 
