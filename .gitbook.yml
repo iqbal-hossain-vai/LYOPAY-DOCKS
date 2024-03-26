@@ -5,4 +5,4 @@ redirects:
     code: 301
   - from: "https://3110954939-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FW4sUF29Mx8prLkJM7pJP%2Fuploads%2FsGKciOe2mly8VxSJo0e2%2FLYOPAY%20Ecosystem%20Product%20Deck.pptx%20(1).pdf?alt=media&token=84557a56-f00b-4886-a90d-d0309607be07"
     to: "https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FpHWR2Wn6kSrORXTppHba%2Fuploads%2FEsTw8UjJ9eGGqKtSfqjU%2FLYOTRADE%20Product%20Deck.pdf?alt=media&token=1f3a26fa-ab76-41ab-beb4-5330a1890368"
-    code: 301
+    code: 301 
